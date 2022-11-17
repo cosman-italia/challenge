@@ -1,7 +1,7 @@
 
-##Problema 1
+## Problema 1
 
-Bob sta cercando di consegnare dei pacchi in un grande condominio, ma non riesce a trovare il piano giusto: le indicazioni ricevute sono un po' confuse. Inizia dal piano terra (piano `0`) e segue le istruzioni un personaggio alla volta.
+Bob sta cercando di consegnare dei pacchi in un grande condominio, ma non riesce a trovare il piano giusto: le indicazioni ricevute sono un po' confuse. Inizia dal piano terra (piano `0`) e segue le istruzioni un carattere alla volta.
 
 Una parentesi di apertura, `(`, significa che deve salire di un piano, mentre una parentesi di chiusura, `)`, significa che deve scendere di un piano.
 
