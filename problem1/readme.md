@@ -17,3 +17,8 @@ Il condominio è molto alto e il seminterrato è molto profondo; non troverà ma
 ```
 
 A che piano portano le istruzioni per Bob?
+
+
+## Soluzione
+
+Piano `74`

@@ -1,4 +1,4 @@
-##Problema 2
+## Problema 2
 
 Bob sta consegnando regali a una griglia bidimensionale infinita di case.
 
@@ -13,3 +13,7 @@ Tuttavia, in centrale avevano bevuto troppo, e quindi le indicazioni sono un po'
 ^>v< consegna pacchi a 4 case in un quadrato, di cui due volte alla casa nella sua posizione iniziale e finale.
 ^v^v^v^v^v consegna un mucchio di pacchi in due sole case.
 ```
+
+## Soluzione
+
+Numero case `2565`

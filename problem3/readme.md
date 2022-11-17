@@ -1,4 +1,4 @@
-##Problema 3
+## Problema 3
 
 Improvvisamente, la GPU vi contatta chiedendo aiuto. Qualcuno le ha chiesto di simulare troppe particelle e non sarà in grado di completarle tutte in tempo per renderizzare il fotogramma successivo a questa velocità.
 
@@ -34,3 +34,7 @@ p=<-8,0,0>, v=<-6,0,0>, a=<-2,0,0>                         (0)
 
 A questo punto, la particella 1 non sarà mai più vicina a <0,0,0> della particella 0 e quindi, nel lungo periodo, la particella 0 rimarrà la più vicina.
 Quale particella rimarrà più vicina alla posizione <0,0,0> nel lungo periodo?
+
+## Soluzione
+
+Particella numero `308`
