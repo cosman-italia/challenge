@@ -19,16 +19,16 @@ A causa di una logica apparentemente tenue che coinvolge il **z-buffering**, la 
  supponiamo di avere a disposizione solo due particelle, che rimangono entrambe interamente sull'asse X (per semplicità). Disegnando gli stati attuali delle particelle `0` e `1` (in quest'ordine) con una linea numerica adiacente e il diagramma delle posizioni `X` attuali (segnate tra parentesi), si otterrebbe quanto segue:
 
 ```
-p=< 3,0,0>, v=< 2,0,0>, a=<-1,0,0>    -4 -3 -2 -1  0  1  2  3  4
-p=< 4,0,0>, v=< 0,0,0>, a=<-2,0,0>                         (0)(1)
+p=<3,0,0>, v=<2,0,0>, a=<-1,0,0>    -4 -3 -2 -1  0  1  2  3  4
+p=<4,0,0>, v=<0,0,0>, a=<-2,0,0>                         (0)(1)
 
-p=< 4,0,0>, v=< 1,0,0>, a=<-1,0,0>    -4 -3 -2 -1  0  1  2  3  4
-p=< 2,0,0>, v=<-2,0,0>, a=<-2,0,0>                      (1)   (0)
+p=<4,0,0>, v=<1,0,0>, a=<-1,0,0>    -4 -3 -2 -1  0  1  2  3  4
+p=<2,0,0>, v=<-2,0,0>, a=<-2,0,0>                      (1)   (0)
 
-p=< 4,0,0>, v=< 0,0,0>, a=<-1,0,0>    -4 -3 -2 -1  0  1  2  3  4
+p=<4,0,0>, v=<0,0,0>, a=<-1,0,0>    -4 -3 -2 -1  0  1  2  3  4
 p=<-2,0,0>, v=<-4,0,0>, a=<-2,0,0>          (1)               (0)
 
-p=< 3,0,0>, v=<-1,0,0>, a=<-1,0,0>    -4 -3 -2 -1  0  1  2  3  4
+p=<3,0,0>, v=<-1,0,0>, a=<-1,0,0>    -4 -3 -2 -1  0  1  2  3  4
 p=<-8,0,0>, v=<-6,0,0>, a=<-2,0,0>                         (0)   
 ```
 
