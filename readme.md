@@ -4,4 +4,4 @@ Ogni sottocartella di questa repository contiene una challenge. All'interno di o
 
 ### Risoluzione delle challenge  
 
-Per risolvere la challenge è necessario scrivere uno script in **JAVA** che prenda input il dataset e risolva il problema dato(print a console del risultato, stampa su file, o come si preferisce).
+Per risolvere la challenge è necessario scrivere uno script in **JAVA/PYTHON** che prenda input il dataset e risolva il problema dato(print a console del risultato, stampa su file, o come si preferisce).
